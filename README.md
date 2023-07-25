@@ -1,0 +1,2 @@
+# StreamingDiscordStatus2023
+DISCORD STREAMING STATUS 2023
