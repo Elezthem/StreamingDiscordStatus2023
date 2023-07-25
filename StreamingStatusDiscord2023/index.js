@@ -23,7 +23,7 @@ client.on('ready', async () => {
   console.log(`${client.user.tag} - rich presence started!`);
 
   const r = new Discord.RichPresence()
-    .setApplicationId('1104040582424301688')
+    .setApplicationId('you application id')
     .setType('STREAMING')
     .setURL('https://www.twitch.tv/elezthem0001') //Must be a youtube video link 
     .setState('Заключай Взаимки/J4J')
